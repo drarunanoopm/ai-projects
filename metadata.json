@@ -1,0 +1,10 @@
+{
+  "name": "BovAcoustic — Cattle Cough CNN & Spectrogram Diagnostics",
+  "description": "Bioacoustic Mel-spectrogram analysis and 2D Convolutional Neural Network classification for bovine respiratory disease screening.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
